@@ -36,7 +36,7 @@ print("OSet: ", oSet)
 print("notOList: ", notOList)
 
 
-#copy all even no. b/w 0-20 in a list called, evenlist and print the event list.
+#copy all even no. b/w 0-20(except 12 and 16) in a list called, evenlist and print the event list.
 evenlist=[]
 for x in range(0, 21, 2):
     if x != 12 and x !=16:
