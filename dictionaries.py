@@ -48,3 +48,10 @@ for i in dict.keys():
 #Loop through both keys and values, by using the items() method
 for i,j in dict.items():
 	print(i ,j)
+#Copy a Dictionary
+#Make a copy of a dictionary with the copy() method:
+newdict = dict.copy()
+print(newdict)
+#Make a copy of a dictionary with the dict() function:
+#dictnew = dict(dict)
+#print(dictnew)
