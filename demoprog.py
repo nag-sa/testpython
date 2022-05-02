@@ -34,3 +34,11 @@ for key , value in dict.items():
         notOList.append(key)
 print("OSet: ", oSet)
 print("notOList: ", notOList)
+
+
+#copy all even no. b/w 0-20 in a list called, evenlist and print the event list.
+evenlist=[]
+for x in range(0, 21, 2):
+    if x != 12 and x !=16:
+        evenlist.append(x)
+print(evenlist)
