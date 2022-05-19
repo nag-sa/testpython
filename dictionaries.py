@@ -43,19 +43,19 @@ print(z)
 dict.pop("gender")
 print(dict)
 
-#Print all key names in the dictionary using for loop
+#Print all key names in the dictionary using forloop.py
 for i in dict:
 	print(i)
 	
-#Print all values in the dictionary using for loop
+#Print all values in the dictionary using forloop.py
 for i in dict:
 	print(dict[i])
 	
-#print all values using value() method via for loop
+#print all values using value() method via forloop.py
 for i in dict.values():
 	print(i)
 	
-#print all keys using keys() method via for loop
+#print all keys using keys() method via forloop.py
 for i in dict.keys():
 	print(i)
 	
@@ -72,7 +72,7 @@ print(newdict)
 #dictnew = dict(dict)
 #print(dictnew)
 
-# Interchange/ swapping b/w key and value using for loop
+# Interchange/ swapping b/w key and value using forloop.py
 old_dict= {'a':10,  'b': 20, 'c':30}
 new_dict= {}
 

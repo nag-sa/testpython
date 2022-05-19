@@ -1,10 +1,10 @@
 Python Modules:
-# A file containing a set of functions you want to include in your application.
+# A file containing a set of functions.py you want to include in your application.
 #To create a module just save the code you want in a file with the file extension .py
 #we can use the module we just created, by using the import statement
 
 Variables in Module
-#The module can contain functions, as already described, but also variables of all types (arrays, dictionaries, objects etc):
+#The module can contain functions.py, as already described, but also variables of all types (arrays, dictionaries, objects etc):
 
 Naming a Module
 #You can name the module file whatever you like, but it must have the file extension .py
